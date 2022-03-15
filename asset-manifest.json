@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbd0eedd.css",
+    "main.js": "/static/js/main.90a23047.js",
+    "static/media/22_ss_eyewear_8.jpg": "/static/media/22_ss_eyewear_8.b4a3c127e69f3ec0ff72.jpg",
+    "static/media/news_img_2.jpg": "/static/media/news_img_2.bf32e156d44fbc2eabdb.jpg",
+    "static/media/download_74d2df50-e438-4ae2-b53a-dfbc459510ef_600x600.jpg": "/static/media/download_74d2df50-e438-4ae2-b53a-dfbc459510ef_600x600.1cb100801f1022639217.jpg",
+    "static/media/22_ss_eyewear_1.jpg": "/static/media/22_ss_eyewear_1.ef8ad2138a06f63fac3f.jpg",
+    "static/media/22_ss_eyewear_2.jpg": "/static/media/22_ss_eyewear_2.08e7f241af71364d9c69.jpg",
+    "static/media/22_ss_eyewear_7.jpg": "/static/media/22_ss_eyewear_7.50418e5e4d7d53156d94.jpg",
+    "static/media/22_ss_eyewear_3.jpg": "/static/media/22_ss_eyewear_3.873d8fba02ae9c0f7804.jpg",
+    "static/media/22_ss_eyewear_6.jpg": "/static/media/22_ss_eyewear_6.fdf4c17add419db90f04.jpg",
+    "static/media/header_logo.png": "/static/media/header_logo.a09f3e099ef535ddcf96.png",
+    "static/media/22_ss_eyewear_5.jpg": "/static/media/22_ss_eyewear_5.84c61cfc0cb8211da3e0.jpg",
+    "static/media/22_ss_eyewear_4.jpg": "/static/media/22_ss_eyewear_4.dfeb66673fac3277eea4.jpg",
+    "static/media/top_22_ss_mr5.jpg": "/static/media/top_22_ss_mr5.ed4e05f1b6bc9ea91215.jpg",
+    "static/media/top_22_ss_mr2.jpg": "/static/media/top_22_ss_mr2.76ae4388f1bcc35ea3ee.jpg",
+    "static/media/2127_22_ss_mr1.jpg": "/static/media/2127_22_ss_mr1.43c4608a3fad481b7294.jpg",
+    "static/media/top_22_ss_mr6.jpg": "/static/media/top_22_ss_mr6.5f2d301c44808345a86b.jpg",
+    "static/media/top_22_ss_mr8.jpg": "/static/media/top_22_ss_mr8.7a1c6c93e741f0d946c6.jpg",
+    "static/media/top_22_ss_mr7.jpg": "/static/media/top_22_ss_mr7.8cd09a971da11a3e68b6.jpg",
+    "static/media/top_22_ss_mr3.jpg": "/static/media/top_22_ss_mr3.6d6c94f26e0b2697fec1.jpg",
+    "static/media/i8png.png": "/static/media/i8png.f0d0540c0a72c8cd94fb.png",
+    "static/media/10.png": "/static/media/10.1258871abe1f1da97bdf.png",
+    "static/media/5.png": "/static/media/5.9ca25fae11ae6c65cdaa.png",
+    "static/media/6.png": "/static/media/6.f91734c1db17ee2246cf.png",
+    "static/media/logo_newsletter.webp": "/static/media/logo_newsletter.b6b91f0434517ffbecaa.webp",
+    "static/media/7.png": "/static/media/7.6c9ea7b8d8c9ca775cd5.png",
+    "static/media/2png.png": "/static/media/2png.b8924610d2c0c3b6db0c.png",
+    "static/media/1.png": "/static/media/1.0a1a5446fb2ddf52a53b.png",
+    "static/media/4.png": "/static/media/4.be7b538e72b6276d4934.png",
+    "index.html": "/index.html",
+    "main.dbd0eedd.css.map": "/static/css/main.dbd0eedd.css.map",
+    "main.90a23047.js.map": "/static/js/main.90a23047.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd0eedd.css",
+    "static/js/main.90a23047.js"
+  ]
+}
